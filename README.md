@@ -37,8 +37,8 @@ Think of it as your API saying:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Aman20aug/hateoas.git
-   cd hateoas
+   git clone https://github.com/Aman20aug/Hateos.git
+   cd Hateos
 
 # Run the application:
 
