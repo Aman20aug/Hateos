@@ -39,7 +39,8 @@ Think of it as your API saying:
    ```bash
    git clone https://github.com/Aman20aug/hateoas.git
    cd hateoas
-   Run the application:
+
+# Run the application:
 
 ## You can run it from your IDE or with:
 ./mvnw spring-boot:run
